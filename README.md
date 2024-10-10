@@ -27,7 +27,7 @@ The primary goal of RouteGuard is to offer a comprehensive solution for route pl
 
 ## Screenshots
 
-![main page](./assets/main_page.png)
+![main_page](./assets/main_page.png)
 
 - Search for places on the map:
 
@@ -41,7 +41,7 @@ The primary goal of RouteGuard is to offer a comprehensive solution for route pl
 
   Click on points directly on the map interface. Upon clicking, users can designate the selected point as the start or end point by clicking the corresponding button.
 
-![report danger](./assets/report_danger.png)
+![report_danger](./assets/report_danger.png)
 
 - To report a danger zone, users first navigate to the "Report Danger" tab.Next, they click on the "Select Danger Zone" button to activate the selection module on the map interface.Users then input a description of the danger zone and click the "Report to Server" button.
 
